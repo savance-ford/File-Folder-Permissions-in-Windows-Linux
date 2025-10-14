@@ -1,2 +1,2 @@
-# File-Folder-Permissions-in-Windows
-Creating, Modifying, and Removing File and Folder Permissions in Windows
+# File-Folder-Permissions-in-Windows-Linux
+Creating, Modifying, and Removing File and Folder Permissions in Windows and Linux
