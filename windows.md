@@ -1,5 +1,6 @@
 # Creating, Modifying, and Removing File and Folder Permissions in Windows
 
+
 In this lab, you'll create and change folder permissions using the Windows Command Line Interface (CLI), known as Powershell. In this exercise, you'll:
 
 access administrative privileges to use Powershell in Windows.
@@ -13,10 +14,11 @@ In "C:\Users\Qwiklab\Documents\" you have a file named "important_document." You
 
 First, use ICACLS to view the existing permissions for the file using this command:
 
-```
+<pre style="background: #fdfdfd; color: black;">
 ICACLS C:\Users\Qwiklab\Documents\important_document
-```
+</pre>
 
+#### OUTPUT
 ```
 C:\Users\Qwiklab\Documents\important_document QWIKLABS-BB-5A8\Kara:(R,W)
                                               NT AUTHORITY\SYSTEM:(I)(F)
