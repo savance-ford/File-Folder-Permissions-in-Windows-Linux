@@ -2,3 +2,4 @@
 Creating, Modifying, and Removing File and Folder Permissions in Windows and Linux
 
 [Windows lab](/windows.md)
+[Linux lab](/linux.md)
